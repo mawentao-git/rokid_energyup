@@ -1,0 +1,20 @@
+{
+    "pages":
+    [
+        "pages/index/index",
+        "pages/game/game",
+        "pages/report/report"
+    ],
+
+    "window":{
+        "navigationBarTitleText":"颈椎能量站",
+        "backgroundColor":"#050807",
+        "viewport":{"width":"device-width"}
+    },
+    
+    "permissions":
+    [
+        "sensors"
+    ]
+    
+}
